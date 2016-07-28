@@ -1,0 +1,7 @@
+aspect:tutor
+output:learningstate:num
+output:correctlikelyhood:num
+input:lesson:word:CurriculumAssistment3428Step23430Solveminus16plus9
+input:student:word:Stu_e0cf1f47118daebc5b16269099ad7347
+input:skill:word:addition
+input:answerisright:num:1

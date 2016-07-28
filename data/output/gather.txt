@@ -1,0 +1,4 @@
+leftclickrateperminute:12
+rightclickrateperminute:0
+keysperminute:2
+totalclickrateperminute:12

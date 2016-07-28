@@ -1,0 +1,4 @@
+aspect:tutor
+output:languageExpression:word
+output:semanticCosine:list,num
+output:sentence:list,word

@@ -1,0 +1,3 @@
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534

@@ -1,0 +1,3 @@
+aspect:sentiment
+output:sentiment:word
+input:sentence:list,word:mi mama me mima

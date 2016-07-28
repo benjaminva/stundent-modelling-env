@@ -1,0 +1,162 @@
+languageExpression:assertion
+sentence:SPeriod
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:SPeriod
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:HelloCoffee is drink
+semanticCosine: 0.439192089803783 0.052986899099072
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bitter
+semanticCosine: 0.281003263419331 0.0120125320376833
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beans
+semanticCosine: 0.478513326040795 0.0889038362787009
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africa
+semanticCosine: 0.442697844403577 0.136056875862061
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank you
+semanticCosine: 0.44881363890132 0.11190999935459
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbye
+semanticCosine: 0.476934392905166 0.120067948305757
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really know
+semanticCosine: 0.433212735251673 0.120346389885064
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plant
+semanticCosine: 0.661144366378064 0.121167287176305
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from it
+semanticCosine: 0.526670769934284 0.153711327186616
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plant
+semanticCosine: 0.674054642143003 0.129498500262908
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbucks
+semanticCosine: 0.51780267168808 0.138130431909857
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswait
+semanticCosine: 0.51780267168808 0.138130431909857
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know more
+semanticCosine: 0.466514056519543 0.159366659475091
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morning
+semanticCosine: 0.498583815407738 0.180396964140206
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beans
+semanticCosine: 0.498569717497448 0.173658165905613
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeurope
+semanticCosine: 0.57044485434634 0.210167657621529
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my bad
+semanticCosine: 0.544511487554143 0.215995695049735
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye bye
+semanticCosine: 0.54564658017554 0.210838479841455
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drink
+semanticCosine: 0.554290994804117 0.220972583823379
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinkno
+semanticCosine: 0.55043845311011 0.216307365795417
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milk
+semanticCosine: 0.563227650740315 0.223763402144423
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and water
+semanticCosine: 0.55442817606463 0.228930678955783
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africa
+semanticCosine: 0.554993688408523 0.233301933827203
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayes
+semanticCosine: 0.561240175952309 0.226084072507215
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!
+semanticCosine: 0.56132660368069 0.225700728851868
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brain
+semanticCosine: 0.520108857099718 0.22665227358766
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"
+semanticCosine: 0.491760674779092 0.207723291137709
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already did
+semanticCosine: 0.452272437664303 0.215790098957895
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast it
+semanticCosine: 0.499234812075684 0.239057929858811
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really know
+semanticCosine: 0.482839080738224 0.230025820806892
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really knowI do not know
+semanticCosine: 0.476089979454763 0.224587766468108
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really knowI do not knowThe best coffee is from chiapas
+semanticCosine: 0.506566085402779 0.229477649982213
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really knowI do not knowThe best coffee is from chiapasOk
+semanticCosine: 0.506448223583098 0.22944408848632
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bitter
+semanticCosine: 0.281003263419331 0.0120125320376833
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africa
+semanticCosine: 0.442697844403577 0.136056875862061
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbye
+semanticCosine: 0.476934392905166 0.120067948305757
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really know
+semanticCosine: 0.433212735251673 0.120346389885064
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from it
+semanticCosine: 0.526670769934284 0.153711327186616
+languageExpression:assertion
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswait
+semanticCosine: 0.51780267168808 0.138130431909857
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morning
+semanticCosine: 0.498583815407738 0.180396964140206
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awake
+semanticCosine: 0.459716789776559 0.153403951149375
+languageExpression:metacog
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beans
+semanticCosine: 0.498569717497448 0.173658165905613
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my bad
+semanticCosine: 0.544511487554143 0.215995695049735
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guy
+semanticCosine: 0.544781200344191 0.212118476941151
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milk
+semanticCosine: 0.563227650740315 0.223763402144423
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopia
+semanticCosine: 0.561240175952309 0.226084072507215
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!
+semanticCosine: 0.56132660368069 0.225700728851868
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already did
+semanticCosine: 0.452272437664303 0.215790098957895
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really know
+semanticCosine: 0.482839080738224 0.230025820806892
+languageExpression:metacom
+sentence:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really knowI do not knowThe best coffee is from chiapas
+semanticCosine: 0.506566085402779 0.229477649982213

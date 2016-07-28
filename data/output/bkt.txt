@@ -1,0 +1,2 @@
+correctlikelyhood:0.9989097060164699
+learningstate:0.9999065279673601 Stu_e0cf1f47118daebc5b16269099ad7347addition

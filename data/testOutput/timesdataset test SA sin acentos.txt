@@ -1,0 +1,90 @@
+time taken: 3946
+average time: 3946.0
+average time in seconds : 3.946
+time taken: 3962
+average time: 3954.0
+average time in seconds : 3.954
+time taken: 3962
+average time: 3956.0
+average time in seconds : 3.956
+time taken: 3962
+average time: 3958.0
+average time in seconds : 3.958
+time taken: 3962
+average time: 3958.0
+average time in seconds : 3.958
+time taken: 3978
+average time: 3962.0
+average time in seconds : 3.962
+time taken: 3978
+average time: 3964.0
+average time in seconds : 3.964
+time taken: 3978
+average time: 3966.0
+average time in seconds : 3.966
+time taken: 3993
+average time: 3969.0
+average time in seconds : 3.969
+time taken: 3993
+average time: 3971.0
+average time in seconds : 3.971
+time taken: 3993
+average time: 3973.0
+average time in seconds : 3.973
+time taken: 0
+average time: 3642.0
+average time in seconds : 3.642
+time taken: 0
+average time: 3362.0
+average time in seconds : 3.362
+time taken: 15
+average time: 3123.0
+average time in seconds : 3.123
+time taken: 31
+average time: 2916.0
+average time in seconds : 2.916
+time taken: 31
+average time: 2736.0
+average time in seconds : 2.736
+time taken: 31
+average time: 2577.0
+average time in seconds : 2.577
+time taken: 47
+average time: 2436.0
+average time in seconds : 2.436
+time taken: 47
+average time: 2311.0
+average time in seconds : 2.311
+time taken: 47
+average time: 2197.0
+average time in seconds : 2.197
+time taken: 62
+average time: 2096.0
+average time in seconds : 2.096
+time taken: 62
+average time: 2003.0
+average time in seconds : 2.003
+time taken: 62
+average time: 1919.0
+average time in seconds : 1.919
+time taken: 78
+average time: 1842.0
+average time in seconds : 1.842
+time taken: 76024
+average time: 4809.0
+average time in seconds : 4.809
+time taken: 76034
+average time: 7549.0
+average time in seconds : 7.549
+time taken: 76034
+average time: 10085.0
+average time in seconds : 10.085
+time taken: 76044
+average time: 12441.0
+average time in seconds : 12.441
+time taken: 76044
+average time: 14634.0
+average time in seconds : 14.634
+time taken: 76054
+average time: 16681.0
+average time in seconds : 16.681

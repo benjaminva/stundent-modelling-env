@@ -1,0 +1,71 @@
+VM options
+-Xms10m -Djava.library.path="C:\Users\NG\Dropbox\Tec\NetBeansProjects\UserModellingEnvironment\src\javatestni"
+
+complete:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();lssr:ng.agents.monitor.LessonStudentSkillRight();apps:ng.agents.monitor.Applications();appsrate:ng.agents.model.ApplicationMinute();keyboard:ng.agents.monitor.Keyboard();mouse:ng.agents.monitor.Mouse();keyrate:ng.agents.model.KeyboardRateMinute();mouseclickrate:ng.agents.model.ClickRateMinute();movementrate:ng.agents.model.MouseMovementRateMinute();gathermousekeyapps:ng.agents.model.GatherData();sentence:ng.agents.model.Sentence();KnowledgeTracing:ng.agents.model.KnowledgeTracing();BruteForce:ng.agents.model.BKTParameters();GNU:ng.agents.model.GnuLSASpace();Query:ng.agents.query.QueryAgentTemplate();ssarf:ng.agents.monitor.SentenceSentimentArff();sentimentbayes:ng.agents.model.BayesSentimentAnalysis()
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();
+lssr:ng.agents.monitor.LessonStudentSkillRight();
+apps:ng.agents.monitor.Applications();
+appsrate:ng.agents.model.ApplicationMinute();
+keyboard:ng.agents.monitor.Keyboard();
+mouse:ng.agents.monitor.Mouse();
+keyrate:ng.agents.model.KeyboardRateMinute();
+mouseclickrate:ng.agents.model.ClickRateMinute();
+movementrate:ng.agents.model.MouseMovementRateMinute();
+gathermousekeyapps:ng.agents.model.GatherData();
+sentence:ng.agents.model.Sentence();
+KnowledgeTracing:ng.agents.model.KnowledgeTracing();
+BruteForce:ng.agents.model.BKTParameters();
+GNU:ng.agents.model.GnuLSASpace();
+Query:ng.agents.query.QueryAgentTemplate();
+ssarf:ng.agents.monitor.SentenceSentimentArff();
+sentimentbayes:ng.agents.model.BayesSentimentAnalysis()
+
+to test appsrate feedback:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();apps:ng.agents.monitor.Applications();appsrate:ng.agents.model.ApplicationMinute();keyboard:ng.agents.monitor.Keyboard();mouse:ng.agents.monitor.Mouse();keyrate:ng.agents.model.KeyboardRateMinute();mouseclickrate:ng.agents.model.ClickRateMinute();movementrate:ng.agents.model.MouseMovementRateMinute();gathermousekeyapps:ng.agents.model.GatherData();Query:ng.agents.query.QueryAgentTemplate();
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();
+apps:ng.agents.monitor.Applications();
+appsrate:ng.agents.model.ApplicationMinute();
+keyboard:ng.agents.monitor.Keyboard();
+mouse:ng.agents.monitor.Mouse();
+keyrate:ng.agents.model.KeyboardRateMinute();
+mouseclickrate:ng.agents.model.ClickRateMinute();
+movementrate:ng.agents.model.MouseMovementRateMinute();
+gathermousekeyapps:ng.agents.model.GatherData();
+Query:ng.agents.query.QueryAgentTemplate();
+
+test 1a 1b KT:
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();lssr:ng.agents.monitor.LessonStudentSkillRight();sentence:ng.agents.model.Sentence();KnowledgeTracing:ng.agents.model.KnowledgeTracing();BruteForce:ng.agents.model.BKTParameters();Query:ng.agents.query.QueryAgentTest();
+
+test 1a 1b GNU:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();keyboard:ng.agents.monitor.Keyboard();sentence:ng.agents.model.Sentence();GNU:ng.agents.model.GnuLSASpace();Query:ng.agents.query.QueryAgentTest();
+
+test 1a 1b SA:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();keyboard:ng.agents.monitor.Keyboard();sentence:ng.agents.model.Sentence();Query:ng.agents.query.QueryAgentTest();ssarf:ng.agents.monitor.SentenceSentimentArff();sentimentbayes:ng.agents.model.BayesSentimentAnalysis();
+
+test 1.1 SA:
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();keyboard:ng.agents.monitor.Keyboard();sentence:ng.agents.model.Sentence();ssarf:ng.agents.monitor.SentenceSentimentArff();dummyssarf:tests.SentenceSentimentArffDummy();
+
+then load sniffer then load the model: sentimentbayes:ng.agents.model.BayesSentimentAnalysis()
+
+test 1.1 KT:
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();lssr:ng.agents.monitor.LessonStudentSkillRight();sentence:ng.agents.model.Sentence();BruteForce:ng.agents.model.BKTParameters();BKTParametersDummy:tests.BKTParametersDummy();
+
+then load sniffer then load the model: KnowledgeTracing:ng.agents.model.KnowledgeTracing()
+
+test 1.2a KT:
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();lssr:ng.agents.monitor.LessonStudentSkillRight();sentence:ng.agents.model.Sentence();KnowledgeTracing:ng.agents.model.KnowledgeTracing();BruteForce:ng.agents.model.BKTParameters();Query:ng.agents.query.QueryAgentTest();feedback:tests.QueryAgentFeedback();dummy1:tests.KnowledgeTracingT12a1();dummy2:tests.KnowledgeTracingT12a2();
+
+test 1.2a GNU:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();keyboard:ng.agents.monitor.Keyboard();sentence:ng.agents.model.Sentence();dummy1GNU:tests.GnuLSASpaceDummy1();dummy2GNU:tests.GnuLSASpaceDummy2();GNU:ng.agents.model.GnuLSASpace();Query:ng.agents.query.QueryAgentTestTime();feedback:tests.QueryAgentFeedback()
+
+test 1.2a SA:
+
+-gui -name  torcuata bb:ng.agents.blackboard.Blackboard();keyboard:ng.agents.monitor.Keyboard();ASdummy1:tests.BayesSADummy1();ASdummy2:tests.BayesSADummy2();sentence:ng.agents.model.Sentence();Query:ng.agents.query.QueryAgentTest();ssarf:ng.agents.monitor.SentenceSentimentArff();sentimentbayes:ng.agents.model.BayesSentimentAnalysis();feedback:tests.QueryAgentFeedback()

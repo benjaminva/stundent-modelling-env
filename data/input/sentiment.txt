@@ -1,0 +1,3 @@
+feedback:false:rat:128
+aspect:sentiment
+output:sentiment:word

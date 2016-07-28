@@ -1,0 +1,738 @@
+time taken: 882
+average time: 882.0
+average time in seconds : 0.882
+time taken: 880
+average time: 881.0
+average time in seconds : 0.881
+time taken: 935
+average time: 899.0
+average time in seconds : 0.899
+time taken: 969
+average time: 916.0
+average time in seconds : 0.916
+time taken: 1010
+average time: 935.0
+average time in seconds : 0.935
+time taken: 64
+average time: 790.0
+average time in seconds : 0.79
+time taken: 134
+average time: 696.0
+average time in seconds : 0.696
+time taken: 168
+average time: 630.0
+average time in seconds : 0.63
+time taken: 201
+average time: 582.0
+average time in seconds : 0.582
+time taken: 232
+average time: 547.0
+average time in seconds : 0.547
+time taken: 270
+average time: 522.0
+average time in seconds : 0.522
+time taken: 308
+average time: 504.0
+average time in seconds : 0.504
+time taken: 334
+average time: 491.0
+average time in seconds : 0.491
+time taken: 367
+average time: 482.0
+average time in seconds : 0.482
+time taken: 433
+average time: 479.0
+average time in seconds : 0.479
+time taken: 464
+average time: 478.0
+average time in seconds : 0.478
+time taken: 621
+average time: 486.0
+average time in seconds : 0.486
+time taken: 651
+average time: 495.0
+average time in seconds : 0.495
+time taken: 689
+average time: 505.0
+average time in seconds : 0.505
+time taken: 728
+average time: 517.0
+average time in seconds : 0.517
+time taken: 753
+average time: 528.0
+average time in seconds : 0.528
+time taken: 810
+average time: 541.0
+average time in seconds : 0.541
+time taken: 417
+average time: 535.0
+average time in seconds : 0.535
+time taken: 2918
+average time: 2918.0
+average time in seconds : 2.918
+time taken: 3416
+average time: 3167.0
+average time in seconds : 3.167
+time taken: 1635
+average time: 2656.0
+average time in seconds : 2.656
+time taken: 3634
+average time: 2900.0
+average time in seconds : 2.9
+time taken: 2271
+average time: 2774.0
+average time in seconds : 2.774
+time taken: 1747
+average time: 2603.0
+average time in seconds : 2.603
+time taken: 3760
+average time: 2768.0
+average time in seconds : 2.768
+time taken: 1748
+average time: 2641.0
+average time in seconds : 2.641
+time taken: 1218
+average time: 2483.0
+average time in seconds : 2.483
+time taken: 4325
+average time: 2667.0
+average time in seconds : 2.667
+time taken: 411
+average time: 2462.0
+average time in seconds : 2.462
+time taken: 3080
+average time: 2513.0
+average time in seconds : 2.513
+time taken: 3147
+average time: 2562.0
+average time in seconds : 2.562
+time taken: 1327
+average time: 2474.0
+average time in seconds : 2.474
+time taken: 3531
+average time: 2544.0
+average time in seconds : 2.544
+time taken: 4852
+average time: 2688.0
+average time in seconds : 2.688
+time taken: 3529
+average time: 2738.0
+average time in seconds : 2.738
+time taken: 4946
+average time: 2860.0
+average time in seconds : 2.86
+time taken: 2243
+average time: 2828.0
+average time in seconds : 2.828
+time taken: 3256
+average time: 2849.0
+average time in seconds : 2.849
+time taken: 1746
+average time: 2797.0
+average time in seconds : 2.797
+time taken: 2036
+average time: 2762.0
+average time in seconds : 2.762
+time taken: 3436
+average time: 2791.0
+average time in seconds : 2.791
+time taken: 1074
+average time: 2720.0
+average time in seconds : 2.72
+time taken: 4187
+average time: 2778.0
+average time in seconds : 2.778
+time taken: 3581
+average time: 2809.0
+average time in seconds : 2.809
+time taken: 636
+average time: 636.0
+average time in seconds : 0.636
+time taken: 545
+average time: 590.0
+average time in seconds : 0.59
+time taken: 595
+average time: 592.0
+average time in seconds : 0.592
+time taken: 643
+average time: 604.0
+average time in seconds : 0.604
+time taken: 861
+average time: 656.0
+average time in seconds : 0.656
+time taken: 775
+average time: 675.0
+average time in seconds : 0.675
+time taken: 831
+average time: 698.0
+average time in seconds : 0.698
+time taken: 104
+average time: 623.0
+average time in seconds : 0.623
+time taken: 944
+average time: 659.0
+average time in seconds : 0.659
+time taken: 981
+average time: 691.0
+average time in seconds : 0.691
+time taken: 262
+average time: 652.0
+average time in seconds : 0.652
+time taken: 433
+average time: 634.0
+average time in seconds : 0.634
+time taken: 184
+average time: 599.0
+average time in seconds : 0.599
+time taken: 548
+average time: 595.0
+average time in seconds : 0.595
+time taken: 600
+average time: 596.0
+average time in seconds : 0.596
+time taken: 649
+average time: 599.0
+average time in seconds : 0.599
+time taken: 706
+average time: 605.0
+average time in seconds : 0.605
+time taken: 412
+average time: 594.0
+average time in seconds : 0.594
+time taken: 448
+average time: 587.0
+average time in seconds : 0.587
+time taken: 493
+average time: 582.0
+average time in seconds : 0.582
+time taken: 940
+average time: 940.0
+average time in seconds : 0.94
+time taken: 834
+average time: 887.0
+average time in seconds : 0.887
+time taken: 897
+average time: 890.0
+average time in seconds : 0.89
+time taken: 126
+average time: 699.0
+average time in seconds : 0.699
+time taken: 174
+average time: 594.0
+average time in seconds : 0.594
+time taken: 1023
+average time: 665.0
+average time in seconds : 0.665
+time taken: 56
+average time: 578.0
+average time in seconds : 0.578
+time taken: 890
+average time: 617.0
+average time in seconds : 0.617
+time taken: 128
+average time: 563.0
+average time in seconds : 0.563
+time taken: 172
+average time: 524.0
+average time in seconds : 0.524
+time taken: 227
+average time: 497.0
+average time in seconds : 0.497
+time taken: 268
+average time: 477.0
+average time in seconds : 0.477
+time taken: 291
+average time: 463.0
+average time in seconds : 0.463
+time taken: 317
+average time: 453.0
+average time in seconds : 0.453
+time taken: 449
+average time: 449.0
+average time in seconds : 0.449
+time taken: 532
+average time: 490.0
+average time in seconds : 0.49
+time taken: 655
+average time: 545.0
+average time in seconds : 0.545
+time taken: 729
+average time: 591.0
+average time in seconds : 0.591
+time taken: 770
+average time: 627.0
+average time in seconds : 0.627
+time taken: 833
+average time: 661.0
+average time in seconds : 0.661
+time taken: 998
+average time: 709.0
+average time in seconds : 0.709
+time taken: 45
+average time: 626.0
+average time in seconds : 0.626
+time taken: 97
+average time: 567.0
+average time in seconds : 0.567
+time taken: 154
+average time: 526.0
+average time in seconds : 0.526
+time taken: 247
+average time: 500.0
+average time in seconds : 0.5
+time taken: 434
+average time: 495.0
+average time in seconds : 0.495
+time taken: 491
+average time: 494.0
+average time in seconds : 0.494
+time taken: 537
+average time: 497.0
+average time in seconds : 0.497
+time taken: 584
+average time: 503.0
+average time in seconds : 0.503
+time taken: 659
+average time: 513.0
+average time in seconds : 0.513
+time taken: 710
+average time: 524.0
+average time in seconds : 0.524
+time taken: 767
+average time: 538.0
+average time in seconds : 0.538
+time taken: 831
+average time: 553.0
+average time in seconds : 0.553
+time taken: 897
+average time: 570.0
+average time in seconds : 0.57
+time taken: 948
+average time: 588.0
+average time in seconds : 0.588
+time taken: 990
+average time: 607.0
+average time in seconds : 0.607
+time taken: 1040
+average time: 625.0
+average time in seconds : 0.625
+time taken: 67
+average time: 602.0
+average time in seconds : 0.602
+time taken: 122
+average time: 583.0
+average time in seconds : 0.583
+time taken: 3558
+average time: 3558.0
+average time in seconds : 3.558
+time taken: 5333
+average time: 4445.0
+average time in seconds : 4.445
+time taken: 2542
+average time: 3811.0
+average time in seconds : 3.811
+time taken: 2579
+average time: 3503.0
+average time in seconds : 3.503
+time taken: 4284
+average time: 3659.0
+average time in seconds : 3.659
+time taken: 5433
+average time: 3954.0
+average time in seconds : 3.954
+time taken: 3417
+average time: 3878.0
+average time in seconds : 3.878
+time taken: 3652
+average time: 3849.0
+average time in seconds : 3.849
+time taken: 4444
+average time: 3915.0
+average time in seconds : 3.915
+time taken: 6489
+average time: 4173.0
+average time in seconds : 4.173
+time taken: 2958
+average time: 4062.0
+average time in seconds : 4.062
+time taken: 399
+average time: 3757.0
+average time in seconds : 3.757
+time taken: 2319
+average time: 3646.0
+average time in seconds : 3.646
+time taken: 1222
+average time: 3473.0
+average time in seconds : 3.473
+time taken: 3865
+average time: 3499.0
+average time in seconds : 3.499
+time taken: 1694
+average time: 3386.0
+average time in seconds : 3.386
+time taken: 4757
+average time: 3467.0
+average time in seconds : 3.467
+time taken: 3159
+average time: 3450.0
+average time in seconds : 3.45
+time taken: 2770
+average time: 3414.0
+average time in seconds : 3.414
+time taken: 2671
+average time: 3377.0
+average time in seconds : 3.377
+time taken: 3623
+average time: 3388.0
+average time in seconds : 3.388
+time taken: 5317
+average time: 3476.0
+average time in seconds : 3.476
+time taken: 4887
+average time: 3537.0
+average time in seconds : 3.537
+time taken: 5099
+average time: 3602.0
+average time in seconds : 3.602
+time taken: 6852
+average time: 3732.0
+average time in seconds : 3.732
+time taken: 2040
+average time: 3667.0
+average time in seconds : 3.667
+time taken: 2295
+average time: 3616.0
+average time in seconds : 3.616
+time taken: 1990
+average time: 3558.0
+average time in seconds : 3.558
+time taken: 3292
+average time: 3549.0
+average time in seconds : 3.549
+time taken: 85040
+average time: 6266.0
+average time in seconds : 6.266
+time taken: 85066
+average time: 8807.0
+average time in seconds : 8.807
+time taken: 495
+average time: 495.0
+average time in seconds : 0.495
+time taken: 298
+average time: 396.0
+average time in seconds : 0.396
+time taken: 341
+average time: 378.0
+average time in seconds : 0.378
+time taken: 382
+average time: 379.0
+average time in seconds : 0.379
+time taken: 412
+average time: 385.0
+average time in seconds : 0.385
+time taken: 448
+average time: 396.0
+average time in seconds : 0.396
+time taken: 487
+average time: 409.0
+average time in seconds : 0.409
+time taken: 515
+average time: 422.0
+average time in seconds : 0.422
+time taken: 552
+average time: 436.0
+average time in seconds : 0.436
+time taken: 577
+average time: 450.0
+average time in seconds : 0.45
+time taken: 617
+average time: 465.0
+average time in seconds : 0.465
+time taken: 657
+average time: 481.0
+average time in seconds : 0.481
+time taken: 684
+average time: 497.0
+average time in seconds : 0.497
+time taken: 711
+average time: 512.0
+average time in seconds : 0.512
+time taken: 769
+average time: 529.0
+average time in seconds : 0.529
+time taken: 814
+average time: 547.0
+average time in seconds : 0.547
+time taken: 861
+average time: 565.0
+average time in seconds : 0.565
+time taken: 896
+average time: 584.0
+average time in seconds : 0.584
+time taken: 939
+average time: 602.0
+average time in seconds : 0.602
+time taken: 977
+average time: 621.0
+average time in seconds : 0.621
+time taken: 1013
+average time: 640.0
+average time in seconds : 0.64
+time taken: 50
+average time: 613.0
+average time in seconds : 0.613
+time taken: 85
+average time: 590.0
+average time in seconds : 0.59
+time taken: 129
+average time: 571.0
+average time in seconds : 0.571
+time taken: 163
+average time: 554.0
+average time in seconds : 0.554
+time taken: 198
+average time: 541.0
+average time in seconds : 0.541
+time taken: 229
+average time: 529.0
+average time in seconds : 0.529
+time taken: 266
+average time: 520.0
+average time in seconds : 0.52
+time taken: 299
+average time: 512.0
+average time in seconds : 0.512
+time taken: 332
+average time: 506.0
+average time in seconds : 0.506
+time taken: 1204
+average time: 1204.0
+average time in seconds : 1.204
+time taken: 292
+average time: 292.0
+average time in seconds : 0.292
+time taken: 531
+average time: 411.0
+average time in seconds : 0.411
+time taken: 409
+average time: 410.0
+average time in seconds : 0.41
+time taken: 488
+average time: 430.0
+average time in seconds : 0.43
+time taken: 596
+average time: 463.0
+average time in seconds : 0.463
+time taken: 665
+average time: 496.0
+average time in seconds : 0.496
+time taken: 896
+average time: 553.0
+average time in seconds : 0.553
+time taken: 972
+average time: 606.0
+average time in seconds : 0.606
+time taken: 1016
+average time: 651.0
+average time in seconds : 0.651
+time taken: 71
+average time: 593.0
+average time in seconds : 0.593
+time taken: 122
+average time: 550.0
+average time in seconds : 0.55
+time taken: 170
+average time: 519.0
+average time in seconds : 0.519
+time taken: 216
+average time: 495.0
+average time in seconds : 0.495
+time taken: 314
+average time: 482.0
+average time in seconds : 0.482
+time taken: 409
+average time: 477.0
+average time in seconds : 0.477
+time taken: 430
+average time: 474.0
+average time in seconds : 0.474
+time taken: 470
+average time: 474.0
+average time in seconds : 0.474
+time taken: 531
+average time: 477.0
+average time in seconds : 0.477
+time taken: 588
+average time: 483.0
+average time in seconds : 0.483
+time taken: 645
+average time: 491.0
+average time in seconds : 0.491
+time taken: 701
+average time: 501.0
+average time in seconds : 0.501
+time taken: 754
+average time: 513.0
+average time in seconds : 0.513
+time taken: 793
+average time: 525.0
+average time in seconds : 0.525
+time taken: 889
+average time: 540.0
+average time in seconds : 0.54
+time taken: 936
+average time: 556.0
+average time in seconds : 0.556
+time taken: 999
+average time: 573.0
+average time in seconds : 0.573
+time taken: 55
+average time: 554.0
+average time in seconds : 0.554
+time taken: 121
+average time: 538.0
+average time in seconds : 0.538
+time taken: 249
+average time: 528.0
+average time in seconds : 0.528
+time taken: 390
+average time: 523.0
+average time in seconds : 0.523
+time taken: 265
+average time: 265.0
+average time in seconds : 0.265
+time taken: 515
+average time: 390.0
+average time in seconds : 0.39
+time taken: 640
+average time: 473.0
+average time in seconds : 0.473
+time taken: 624
+average time: 511.0
+average time in seconds : 0.511
+time taken: 717
+average time: 552.0
+average time in seconds : 0.552
+time taken: 998
+average time: 626.0
+average time in seconds : 0.626
+time taken: 125
+average time: 554.0
+average time in seconds : 0.554
+time taken: 265
+average time: 518.0
+average time in seconds : 0.518
+time taken: 390
+average time: 504.0
+average time in seconds : 0.504
+time taken: 514
+average time: 505.0
+average time in seconds : 0.505
+time taken: 655
+average time: 518.0
+average time in seconds : 0.518
+time taken: 780
+average time: 540.0
+average time in seconds : 0.54
+time taken: 921
+average time: 569.0
+average time in seconds : 0.569
+time taken: 32
+average time: 531.0
+average time in seconds : 0.531
+time taken: 187
+average time: 508.0
+average time in seconds : 0.508
+time taken: 359
+average time: 499.0
+average time in seconds : 0.499
+time taken: 578
+average time: 578.0
+average time in seconds : 0.578
+time taken: 592
+average time: 585.0
+average time in seconds : 0.585
+time taken: 733
+average time: 634.0
+average time in seconds : 0.634
+time taken: 874
+average time: 694.0
+average time in seconds : 0.694
+time taken: 1014
+average time: 758.0
+average time in seconds : 0.758
+time taken: 141
+average time: 655.0
+average time in seconds : 0.655
+time taken: 296
+average time: 604.0
+average time in seconds : 0.604
+time taken: 421
+average time: 581.0
+average time in seconds : 0.581
+time taken: 562
+average time: 579.0
+average time in seconds : 0.579
+time taken: 687
+average time: 589.0
+average time in seconds : 0.589
+time taken: 842
+average time: 612.0
+average time in seconds : 0.612
+time taken: 983
+average time: 643.0
+average time in seconds : 0.643
+time taken: 109
+average time: 602.0
+average time in seconds : 0.602
+time taken: 234
+average time: 576.0
+average time in seconds : 0.576
+time taken: 375
+average time: 562.0
+average time in seconds : 0.562
+time taken: 499
+average time: 558.0
+average time in seconds : 0.558
+time taken: 639
+average time: 563.0
+average time in seconds : 0.563
+time taken: 780
+average time: 575.0
+average time in seconds : 0.575
+time taken: 905
+average time: 592.0
+average time in seconds : 0.592
+time taken: 16
+average time: 564.0
+average time in seconds : 0.564
+time taken: 140
+average time: 543.0
+average time in seconds : 0.543
+time taken: 265
+average time: 531.0
+average time in seconds : 0.531
+time taken: 390
+average time: 525.0
+average time in seconds : 0.525
+time taken: 531
+average time: 525.0
+average time in seconds : 0.525
+time taken: 655
+average time: 530.0
+average time in seconds : 0.53
+time taken: 780
+average time: 540.0
+average time in seconds : 0.54
+time taken: 905
+average time: 553.0
+average time in seconds : 0.553
+time taken: 16
+average time: 534.0
+average time in seconds : 0.534
+time taken: 141
+average time: 520.0
+average time in seconds : 0.52
+time taken: 265
+average time: 512.0
+average time in seconds : 0.512

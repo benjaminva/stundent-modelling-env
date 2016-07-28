@@ -1,0 +1,5 @@
+aspect:mouse
+output:leftclickrateperminute:num
+output:rightclickrateperminute:num
+output:totalclickrateperminute:num
+output:keysperminute:num

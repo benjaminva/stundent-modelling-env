@@ -1,0 +1,90 @@
+time taken: 296
+average time: 773.0
+average time in seconds : 0.773
+time taken: 328
+average time: 733.0
+average time in seconds : 0.733
+time taken: 343
+average time: 715.0
+average time in seconds : 0.715
+time taken: 390
+average time: 725.0
+average time in seconds : 0.725
+time taken: 421
+average time: 736.0
+average time in seconds : 0.736
+time taken: 468
+average time: 750.0
+average time in seconds : 0.75
+time taken: 499
+average time: 765.0
+average time in seconds : 0.765
+time taken: 530
+average time: 782.0
+average time in seconds : 0.782
+time taken: 577
+average time: 799.0
+average time in seconds : 0.799
+time taken: 608
+average time: 816.0
+average time in seconds : 0.816
+time taken: 624
+average time: 831.0
+average time in seconds : 0.831
+time taken: 686
+average time: 849.0
+average time in seconds : 0.849
+time taken: 702
+average time: 866.0
+average time in seconds : 0.866
+time taken: 749
+average time: 883.0
+average time in seconds : 0.883
+time taken: 811
+average time: 901.0
+average time in seconds : 0.901
+time taken: 842
+average time: 920.0
+average time in seconds : 0.92
+time taken: 889
+average time: 939.0
+average time in seconds : 0.939
+time taken: 967
+average time: 960.0
+average time in seconds : 0.96
+time taken: 983
+average time: 971.0
+average time in seconds : 0.971
+time taken: 1014
+average time: 992.0
+average time in seconds : 0.992
+time taken: 80933
+average time: 4878.0
+average time in seconds : 4.878
+time taken: 80964
+average time: 8406.0
+average time in seconds : 8.406
+time taken: 80995
+average time: 11625.0
+average time in seconds : 11.625
+time taken: 81026
+average time: 14572.0
+average time in seconds : 14.572
+time taken: 81058
+average time: 17283.0
+average time in seconds : 17.283
+time taken: 81089
+average time: 19783.0
+average time in seconds : 19.783
+time taken: 81120
+average time: 22096.0
+average time in seconds : 22.096
+time taken: 81136
+average time: 23469.0
+average time in seconds : 23.469
+time taken: 81151
+average time: 24776.0
+average time in seconds : 24.776
+time taken: 81167
+average time: 26023.0
+average time in seconds : 26.023

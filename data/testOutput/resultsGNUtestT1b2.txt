@@ -1,0 +1,504 @@
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:It has black color and tastes bitter
+semanticCosine: 0.212689021990736 0.0590073041398361
+languageExpression:assertion
+sentence:coffee is made from coffee beans
+semanticCosine: 0.655398726604466 0.225692911104369
+languageExpression:assertion
+sentence:Ethiopia , in Africa
+semanticCosine: 0.100452697412493 0.132919417790528
+languageExpression:assertion
+sentence:thank you
+semanticCosine: 0.049567795388148 0.00974094062270145
+languageExpression:assertion
+sentence:bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:Hi
+semanticCosine: 0.0562769932677644 0.000155103736213807
+languageExpression:metacog
+sentence:I don't really know
+semanticCosine: 0.0377795727493217 0.0490272106220518
+languageExpression:assertion
+sentence:Its a plant
+semanticCosine: 0.587866391053587 0.0894392901010486
+languageExpression:assertion
+sentence:you can make a drink from it
+semanticCosine: 0.31031530134222 0.0964414820318931
+languageExpression:assertion
+sentence:a plant
+semanticCosine: 0.706637465450285 0.0388139975422251
+languageExpression:assertion
+sentence:starbucks
+semanticCosine: 0 0
+languageExpression:metacom
+sentence:ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Its my favorite drink
+semanticCosine: 0.172114719016515 0.106638103855172
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:more sugar and water
+semanticCosine: 0.171907400185013 0.114092210935748
+languageExpression:assertion
+sentence:from africa
+semanticCosine: 0.118983084481163 0.113475762046312
+languageExpression:assertion
+sentence:etiopia
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:yes
+semanticCosine: 0.0753150685798643 0.00923814958445757
+languageExpression:metacog
+sentence:I do not really know
+semanticCosine: 0.0568066053372412 0.0546120329647346
+languageExpression:metacog
+sentence:I do not know
+semanticCosine: 0.0603237303198656 0.0463790780795787
+languageExpression:assertion
+sentence:The best coffee is from chiapas
+semanticCosine: 0.611070990222595 0.200497257251651
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:It has black color and tastes bitter
+semanticCosine: 0.212689021990736 0.0590073041398361
+languageExpression:assertion
+sentence:coffee is made from coffee beans
+semanticCosine: 0.655398726604466 0.225692911104369
+languageExpression:assertion
+sentence:Ethiopia , in Africa
+semanticCosine: 0.100452697412493 0.132919417790528
+languageExpression:assertion
+sentence:thank you
+semanticCosine: 0.049567795388148 0.00974094062270145
+languageExpression:assertion
+sentence:bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:Hi
+semanticCosine: 0.0562769932677644 0.000155103736213807
+languageExpression:metacog
+sentence:I don't really know
+semanticCosine: 0.0377795727493217 0.0490272106220518
+languageExpression:assertion
+sentence:Its a plant
+semanticCosine: 0.587866391053587 0.0894392901010486
+languageExpression:assertion
+sentence:you can make a drink from it
+semanticCosine: 0.31031530134222 0.0964414820318931
+languageExpression:assertion
+sentence:a plant
+semanticCosine: 0.706637465450285 0.0388139975422251
+languageExpression:assertion
+sentence:starbucks
+semanticCosine: 0 0
+languageExpression:metacom
+sentence:wait
+semanticCosine: 0.0508407171991363 0.0153580459098227
+languageExpression:metacog
+sentence:I want to know more
+semanticCosine: 0.0556621683116138 0.102651697694974
+languageExpression:metacom
+sentence:ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Good morning
+semanticCosine: 0.118527375476224 0.137871857201892
+languageExpression:assertion
+sentence:Its my favorite drink
+semanticCosine: 0.172114719016515 0.106638103855172
+languageExpression:assertion
+sentence:I makes jumpy, but it keeps you awake
+semanticCosine: 0.171904322924681 0.084350808529077
+languageExpression:assertion
+sentence:coffee, sugar, and milk
+semanticCosine: 0.341558938398759 0.161934188907649
+languageExpression:assertion
+sentence:coffee beans
+semanticCosine: 0.49460469418736 0.166491419467539
+languageExpression:assertion
+sentence:it started in europe with plants from south america
+semanticCosine: 0.356243332073136 0.185512140930194
+languageExpression:assertion
+sentence:europe
+semanticCosine: 0.0365462890593901 0.0974800368902296
+languageExpression:metacom
+sentence:oh, ok sorry, my bad
+semanticCosine: 0.0444972624886126 0.0614488247287763
+languageExpression:assertion
+sentence:bye bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:hello guy
+semanticCosine: 0.0384672011564712 0.056554476046468
+languageExpression:assertion
+sentence:it's a drink
+semanticCosine: 0.166785358803897 0.0608353888622435
+languageExpression:assertion
+sentence:no
+semanticCosine: 0.12263267109949 0.0535113221224575
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:more sugar and water
+semanticCosine: 0.171907400185013 0.114092210935748
+languageExpression:assertion
+sentence:from africa
+semanticCosine: 0.118983084481163 0.113475762046312
+languageExpression:assertion
+sentence:etiopia
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:yes
+semanticCosine: 0.0753150685798643 0.00923814958445757
+languageExpression:assertion
+sentence:hi there!
+semanticCosine: 0.0572755494556446 -0.0143576141349906
+languageExpression:assertion
+sentence:coffee is what I drink in the morning to wake up my brain
+semanticCosine: 0.277126329362135 0.160623671314445
+languageExpression:metacom
+sentence:yes, I can say "more"
+semanticCosine: 0.130481797850401 0.00655855627784458
+languageExpression:assertion
+sentence:yes, I already did
+semanticCosine: 0.0559296805332574 0.168231727039812
+languageExpression:assertion
+sentence:the coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast it
+semanticCosine: 0.400497585673401 0.23897098700136
+languageExpression:metacog
+sentence:I do not really know
+semanticCosine: 0.0568066053372412 0.0546120329647346
+languageExpression:metacog
+sentence:I do not know
+semanticCosine: 0.0603237303198656 0.0463790780795787
+languageExpression:assertion
+sentence:The best coffee is from chiapas
+semanticCosine: 0.611070990222595 0.200497257251651
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:coffee is made from coffee beans
+semanticCosine: 0.655398726604466 0.225692911104369
+languageExpression:assertion
+sentence:coffee is made from coffee beans
+semanticCosine: 0.655398726604466 0.225692911104369
+languageExpression:assertion
+sentence:Ethiopia , in Africa
+semanticCosine: 0.100452697412493 0.132919417790528
+languageExpression:assertion
+sentence:thank you
+semanticCosine: 0.049567795388148 0.00974094062270145
+languageExpression:assertion
+sentence:thank you
+semanticCosine: 0.049567795388148 0.00974094062270145
+languageExpression:assertion
+sentence:bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:Hi
+semanticCosine: 0.0562769932677644 0.000155103736213807
+languageExpression:metacog
+sentence:I don't really know
+semanticCosine: 0.0377795727493217 0.0490272106220518
+languageExpression:assertion
+sentence:you can make a drink from it
+semanticCosine: 0.31031530134222 0.0964414820318931
+languageExpression:assertion
+sentence:a plant
+semanticCosine: 0.706637465450285 0.0388139975422251
+languageExpression:assertion
+sentence:starbucks
+semanticCosine: 0 0
+languageExpression:metacom
+sentence:wait
+semanticCosine: 0.0508407171991363 0.0153580459098227
+languageExpression:metacom
+sentence:wait
+semanticCosine: 0.0508407171991363 0.0153580459098227
+languageExpression:metacom
+sentence:ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Good morning
+semanticCosine: 0.118527375476224 0.137871857201892
+languageExpression:assertion
+sentence:Its my favorite drink
+semanticCosine: 0.172114719016515 0.106638103855172
+languageExpression:assertion
+sentence:I makes jumpy, but it keeps you awake
+semanticCosine: 0.171904322924681 0.084350808529077
+languageExpression:assertion
+sentence:I makes jumpy, but it keeps you awake
+semanticCosine: 0.171904322924681 0.084350808529077
+languageExpression:assertion
+sentence:coffee, sugar, and milk
+semanticCosine: 0.341558938398759 0.161934188907649
+languageExpression:assertion
+sentence:coffee, sugar, and milk
+semanticCosine: 0.341558938398759 0.161934188907649
+languageExpression:assertion
+sentence:coffee beans
+semanticCosine: 0.49460469418736 0.166491419467539
+languageExpression:assertion
+sentence:it started in europe with plants from south america
+semanticCosine: 0.356243332073136 0.185512140930194
+languageExpression:assertion
+sentence:europe
+semanticCosine: 0.0365462890593901 0.0974800368902296
+languageExpression:assertion
+sentence:europe
+semanticCosine: 0.0365462890593901 0.0974800368902296
+languageExpression:assertion
+sentence:bye bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:hello guy
+semanticCosine: 0.0384672011564712 0.056554476046468
+languageExpression:assertion
+sentence:hello guy
+semanticCosine: 0.0384672011564712 0.056554476046468
+languageExpression:assertion
+sentence:it's a drink
+semanticCosine: 0.166785358803897 0.0608353888622435
+languageExpression:assertion
+sentence:no
+semanticCosine: 0.12263267109949 0.0535113221224575
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:more sugar and water
+semanticCosine: 0.171907400185013 0.114092210935748
+languageExpression:assertion
+sentence:from africa
+semanticCosine: 0.118983084481163 0.113475762046312
+languageExpression:assertion
+sentence:etiopia
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:etiopia
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:yes
+semanticCosine: 0.0753150685798643 0.00923814958445757
+languageExpression:assertion
+sentence:hi there!
+semanticCosine: 0.0572755494556446 -0.0143576141349906
+languageExpression:assertion
+sentence:hi there!
+semanticCosine: 0.0572755494556446 -0.0143576141349906
+languageExpression:assertion
+sentence:coffee is what I drink in the morning to wake up my brain
+semanticCosine: 0.277126329362135 0.160623671314445
+languageExpression:assertion
+sentence:coffee is what I drink in the morning to wake up my brain
+semanticCosine: 0.277126329362135 0.160623671314445
+languageExpression:metacom
+sentence:yes, I can say "more"
+semanticCosine: 0.130481797850401 0.00655855627784458
+languageExpression:assertion
+sentence:yes, I already did
+semanticCosine: 0.0559296805332574 0.168231727039812
+languageExpression:assertion
+sentence:the coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast it
+semanticCosine: 0.400497585673401 0.23897098700136
+languageExpression:metacog
+sentence:I do not really know
+semanticCosine: 0.0568066053372412 0.0546120329647346
+languageExpression:metacog
+sentence:I do not know
+semanticCosine: 0.0603237303198656 0.0463790780795787
+languageExpression:assertion
+sentence:The best coffee is from chiapas
+semanticCosine: 0.611070990222595 0.200497257251651
+languageExpression:assertion
+sentence:The best coffee is from chiapas
+semanticCosine: 0.611070990222595 0.200497257251651
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Hello
+semanticCosine: 0.0505918059853679 0.0164370753852506
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:Coffee is drink
+semanticCosine: 0.519313441017326 0.109192303719651
+languageExpression:assertion
+sentence:It has black color and tastes bitter
+semanticCosine: 0.212689021990736 0.0590073041398361
+languageExpression:assertion
+sentence:coffee is made from coffee beans
+semanticCosine: 0.655398726604466 0.225692911104369
+languageExpression:assertion
+sentence:thank you
+semanticCosine: 0.049567795388148 0.00974094062270145
+languageExpression:assertion
+sentence:bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:Hi
+semanticCosine: 0.0562769932677644 0.000155103736213807
+languageExpression:metacog
+sentence:I don't really know
+semanticCosine: 0.0377795727493217 0.0490272106220518
+languageExpression:metacog
+sentence:I don't really know
+semanticCosine: 0.0377795727493217 0.0490272106220518
+languageExpression:assertion
+sentence:Its a plant
+semanticCosine: 0.587866391053587 0.0894392901010486
+languageExpression:assertion
+sentence:you can make a drink from it
+semanticCosine: 0.31031530134222 0.0964414820318931
+languageExpression:assertion
+sentence:starbucks
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:starbucks
+semanticCosine: 0 0
+languageExpression:metacom
+sentence:wait
+semanticCosine: 0.0508407171991363 0.0153580459098227
+languageExpression:metacom
+sentence:wait
+semanticCosine: 0.0508407171991363 0.0153580459098227
+languageExpression:metacog
+sentence:I want to know more
+semanticCosine: 0.0556621683116138 0.102651697694974
+languageExpression:metacog
+sentence:I want to know more
+semanticCosine: 0.0556621683116138 0.102651697694974
+languageExpression:metacom
+sentence:ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:assertion
+sentence:Good morning
+semanticCosine: 0.118527375476224 0.137871857201892
+languageExpression:assertion
+sentence:Its my favorite drink
+semanticCosine: 0.172114719016515 0.106638103855172
+languageExpression:assertion
+sentence:I makes jumpy, but it keeps you awake
+semanticCosine: 0.171904322924681 0.084350808529077
+languageExpression:assertion
+sentence:I makes jumpy, but it keeps you awake
+semanticCosine: 0.171904322924681 0.084350808529077
+languageExpression:assertion
+sentence:coffee, sugar, and milk
+semanticCosine: 0.341558938398759 0.161934188907649
+languageExpression:assertion
+sentence:coffee beans
+semanticCosine: 0.49460469418736 0.166491419467539
+languageExpression:assertion
+sentence:it started in europe with plants from south america
+semanticCosine: 0.356243332073136 0.185512140930194
+languageExpression:assertion
+sentence:europe
+semanticCosine: 0.0365462890593901 0.0974800368902296
+languageExpression:metacom
+sentence:oh, ok sorry, my bad
+semanticCosine: 0.0444972624886126 0.0614488247287763
+languageExpression:assertion
+sentence:bye bye
+semanticCosine: -0.00177228740551613 -0.0581426064595836
+languageExpression:assertion
+sentence:hello guy
+semanticCosine: 0.0384672011564712 0.056554476046468
+languageExpression:assertion
+sentence:it's a drink
+semanticCosine: 0.166785358803897 0.0608353888622435
+languageExpression:assertion
+sentence:no
+semanticCosine: 0.12263267109949 0.0535113221224575
+languageExpression:assertion
+sentence:no
+semanticCosine: 0.12263267109949 0.0535113221224575
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:water, sugar and milk
+semanticCosine: 0.21738804007577 0.111752033271314
+languageExpression:assertion
+sentence:more sugar and water
+semanticCosine: 0.171907400185013 0.114092210935748
+languageExpression:assertion
+sentence:etiopia
+semanticCosine: 0 0
+languageExpression:assertion
+sentence:yes
+semanticCosine: 0.0753150685798643 0.00923814958445757
+languageExpression:assertion
+sentence:yes
+semanticCosine: 0.0753150685798643 0.00923814958445757
+languageExpression:assertion
+sentence:hi there!
+semanticCosine: 0.0572755494556446 -0.0143576141349906
+languageExpression:assertion
+sentence:coffee is what I drink in the morning to wake up my brain
+semanticCosine: 0.277126329362135 0.160623671314445
+languageExpression:metacom
+sentence:yes, I can say "more"
+semanticCosine: 0.130481797850401 0.00655855627784458
+languageExpression:assertion
+sentence:yes, I already did
+semanticCosine: 0.0559296805332574 0.168231727039812
+languageExpression:assertion
+sentence:the coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast it
+semanticCosine: 0.400497585673401 0.23897098700136
+languageExpression:assertion
+sentence:the coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast it
+semanticCosine: 0.400497585673401 0.23897098700136
+languageExpression:metacog
+sentence:I do not really know
+semanticCosine: 0.0568066053372412 0.0546120329647346
+languageExpression:metacog
+sentence:I do not know
+semanticCosine: 0.0603237303198656 0.0463790780795787
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534
+languageExpression:metacom
+sentence:Ok
+semanticCosine: 0.0849120827561663 0.0541472336110534

@@ -1,0 +1,2 @@
+correctlikelyhood:0.6314760000000001
+learningstate:0.5020000000000002: Stu_6081594975a764c8e3a691fa2b3a321dequation_solving

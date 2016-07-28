@@ -1,0 +1,8 @@
+@attribute rateleft num
+@attribute rateright num
+@attribute ratetotal num
+@attribute totalKeysPressed num 
+@attribute differentKeysPressed num
+@attribute applications string
+
+0,0,0,117,3,rma@torcuata-JADERemoteAgentManagement|GUIUserModellingEnvironment-NetBeansIDE7.4

@@ -1,0 +1,8 @@
+feedback:true:dog:1
+aspect:tutor
+input:lesson:word:math
+input:student:word:benjamin
+input:skill:word:fisica
+input:answerisright:num:0
+output:learningstate:num
+output:correctlikelyhood:num

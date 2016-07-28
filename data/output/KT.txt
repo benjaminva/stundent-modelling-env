@@ -1,0 +1,2 @@
+correctlikelyhood:0.1
+learningstate:0.3

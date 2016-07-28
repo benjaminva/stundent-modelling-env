@@ -1,0 +1,87 @@
+time taken: 873
+average time: 755.0
+average time in seconds : 0.755
+time taken: 905
+average time: 758.0
+average time in seconds : 0.758
+time taken: 936
+average time: 767.0
+average time in seconds : 0.767
+time taken: 983
+average time: 779.0
+average time in seconds : 0.779
+time taken: 1029
+average time: 793.0
+average time in seconds : 0.793
+time taken: 1061
+average time: 808.0
+average time in seconds : 0.808
+time taken: 1092
+average time: 823.0
+average time in seconds : 0.823
+time taken: 1107
+average time: 838.0
+average time in seconds : 0.838
+time taken: 1170
+average time: 854.0
+average time in seconds : 0.854
+time taken: 1201
+average time: 871.0
+average time in seconds : 0.871
+time taken: 1232
+average time: 887.0
+average time in seconds : 0.887
+time taken: 1263
+average time: 903.0
+average time in seconds : 0.903
+time taken: 1326
+average time: 922.0
+average time in seconds : 0.922
+time taken: 1357
+average time: 940.0
+average time in seconds : 0.94
+time taken: 1435
+average time: 960.0
+average time in seconds : 0.96
+time taken: 1497
+average time: 992.0
+average time in seconds : 0.992
+time taken: 75395
+average time: 3631.0
+average time in seconds : 3.631
+time taken: 75410
+average time: 7272.0
+average time in seconds : 7.272
+time taken: 75457
+average time: 10589.0
+average time in seconds : 10.589
+time taken: 75473
+average time: 13623.0
+average time in seconds : 13.623
+time taken: 75504
+average time: 16409.0
+average time in seconds : 16.409
+time taken: 75535
+average time: 18976.0
+average time in seconds : 18.976
+time taken: 75582
+average time: 21349.0
+average time in seconds : 21.349
+time taken: 75598
+average time: 22757.0
+average time in seconds : 22.757
+time taken: 75598
+average time: 24097.0
+average time in seconds : 24.097
+time taken: 75613
+average time: 25374.0
+average time in seconds : 25.374
+time taken: 75629
+average time: 26593.0
+average time in seconds : 26.593
+time taken: 75644
+average time: 27151.0
+average time in seconds : 27.151
+time taken: 75644
+average time: 27695.0
+average time in seconds : 27.695

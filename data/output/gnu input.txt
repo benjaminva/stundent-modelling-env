@@ -1,0 +1,3 @@
+languageExpression:assertion
+sentence:coffee beans
+semanticCosine: 0.49460469418736 0.166491419467539

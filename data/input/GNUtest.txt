@@ -1,0 +1,5 @@
+aspect:tutor
+output:semanticCosine:list,num
+output:languageExpression:word
+output:sentence:list,word
+input:sentence:list,word:HelloCoffee is drinkIt has black color and tastes bittercoffee is made from coffee beansEthiopia , in Africathank youbyeHiI don't really knowIts a plantyou can make a drink from ita plantstarbuckswaitI want to know moreokGood morningIts my favorite drinkI makes jumpy, but it keeps you awakecoffee, sugar, and milkcoffee beansit started in europe with plants from south americaeuropeoh, ok sorry, my badbye byehello guyit's a drinknowater, sugar and milkmore sugar and waterfrom africaetiopiayeshi there!coffee is what I drink in the morning to wake up my brainyes, I can say "more"yes, I already didthe coffee becomes from a fruit, when it falls down, you take the seed and let it dry. After that you toast itI do not really knowI do not knowThe best coffee is from chiapasOk

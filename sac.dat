@@ -1,0 +1,47 @@
+@WH	\b(When|Where|Which|Whichever|Wherever|Whenever|[Ww]ho|[Ww]hom|[Ww]hose)\b
+@MODAL	\b([Cc]an|[Cc]annot|[Mm]ay|[Ss]hall|[Ww]ill|'ll|[Cc]ould|[Mm]ight|[Ww]ould|[Mm]ust|[Ww]o|[Ww]ould)\b
+@DOHAVE	\b([Dd]oesn?|[Dd]on?|[Dd]ont|[Dd]idn?|[Dd]oing|[Dd]one|[Dd]id|[Hh]aven?|[Hh]asn?|[Hh]adn?|[Hh]aving|'ve|'d)\b
+@BE	\b([Aa]m|[Ii]sn?|[Aa]ren?|[Ww]asn?|[Ww]eren?|[Bb]eing|[Bb]een|'m|'re)\b
+HAPPENS HAPPENED HAPPEN_E	happens?(ed)?
+NEG	\b(never|not|nor|neither|'t)\b
+@SHOULD	[Ss]hould
+@WHAT	\b[Ww]hat\b
+@HOW	\b[Hh]ow\b
+@WHY	\b[Ww]hy\b
+ADJADV	(RBR|RBS|RB|JJ)
+NOUN	(NNPS|NNP|NNS|NNX|NPX|NN)
+METACOG	\b(believed?|comprehend(ed)?|confus(ed)?|explained|follow(ed)?|guess(ed)?|imagined?|interpret(ed)?|known?|knew|know|messed|recogniz(ed)?|seen?|saw|suppos(ed)?|sure|idea|clue|lost|[Ff]orgot|confused|help|think|get|thought|understand|understood)\b
+METACOM	\b([Oo]kay|[Hh]mm|[Oo]k|mm|um|add|added|[Aa]nswer|answered|[Cc]larify|clarified|miss|missed|modify|modified|note|noted|[Rr]epeat|repeated|[Rr]estate|[Rr]ephrase|[Ee]laborate|[Ee]xplain|restated|[Ss]ay|said|saying|speak|spoken|ask|wait|pardon|excuse|speaking|specify|[Ss]pecific|specified|[Tt]ell|told|telling|[Qq]uestion)\b
+QUESTION	^@(WHAT|HOW|WHY|DOHAVE|MODAL|WH|BE|SHOULD)
+YES	\b([Yy]es|[Yy]ep|[Yy]eah|[Yy]a|[Dd]efinitely|[Aa]ffirmative)\b
+NO	\b([Nn]o|[Nn]ope|[Nn]ah?|[Nn]ot|[Nn]egative|[Nn]O)\b
+DISJUNCTIONKEY	\bor
+DEFINITIONKEY	\b(definition|meaning|understand|means?|[Dd]efine)\b
+EXAMPLEKEY	\b(example|type|kind|claim|evidence|illustration|instance|support|evidence|prototype|standard|exemplar|picture|case|demonstration|show|demonstrate|exemplify|illustrate|qualify|typical|model|standard|exemplar)\b
+QUANTIFICATIONKEY	\b(many|amount|number|sum|distance|measurement|length|width|size|height|average|total|approximation)\b
+FEATURE_SPECIFICATIONKEY	\b(characteristics|color|parts|features|sound|properties|attributes|shape|smell|taste|look|feel|sound|dimension|[Ss]pecify|[Ll]ist|[Dd]escribe|[Cc]haracterize)\b
+ENABLEMENTKEY	\b(tools|useful|helpful|indicated|help|need(ed)?|required?|help|allows?|necessary|in order to)\b
+CAUSAL_CONSEQUENTKEY	\b(outcomes?|results?|consequences?|effects?|conclusion|HAPPENS)\b
+COMPARISONKEY	\b(differences?|similarity(ies)?|distinguish|separate|vary|discriminate|contrast|differ|same|different|similar|like|differ|less|related|compare|JJR|tell.*?from|between*.?)\b
+PROCEDURALKEY	\b(plan|scheme|design|proposal|suggestion|arrangement|outline|program|method|way|manner|form|mode|procedure|route|steps|process|used?)\b
+CAUSAL_ANTECEDENTKEY	\b(reason|causes?d?|allows?(ed)?|led|leads|stems?(ed)?|occurs?(ed)?|transpires?(ed)?|made|because|unless)\b
+GOAL_ORIENTATIONKEY	\b(motivation|motives?|reasons?|grounds|principles?|intentions?|consideration|attraction|temptation|charm|pull|incentive|stimulus|aim|ends?|destination|goals?|target|fascination|induces?d?|possess(ed)?(es)?|move[sd]|inspires?d?|prompts|purposes?|seeks?|plans?|contemplate|desire|pursue|aims?|aspire|stimulates?d?|thinking of|rouses|incites?d?|provokes?d?|instigates?d?|encourages?d?|tempts?(ed)?|fascinates?d?|lures?d?)\b
+JUDGMENTALKEY	\b(SHOULD|thoughts?|judgments?|decisions?|findings?|opinions?|assessments?|beliefs?|views?|impressions?|conceptions?|conclusions?|decide|decisions?|findings?|find|conceive|realizations?|realize|rate|understanding?|recommend|impressions?|recognize|think|consider|believe|advise|conclude|indicate)\b
+INTERPRETATIONKEY	\b(meaning|significance|sense|essence|spirit|suggestions?|interpretations?|explanations?|diagnosis|solution|answer|rendition|translation|commentary|inference|deduction|imply|[Ll]ink|[Cc]omment|[Ee]xplain(ed)?|[Ii]nterpret|[Gg]uess|signify|denote|[Ee]xpress|convey|[Ii]ndicate|declare|involve|affirm|[Ss]tate|construed?|translate|infer(red)?|render|[Ss]olve|disentangled?|unravel(ed)?|[Cc]haracterized?|[Cc]larify?(ied)?|[Ee]xplain(ed)?)\b
+EXPECTATIONALKEY	\bHAPPEN_E
+VERIFICATIONPAT	^@(MODAL|DOHAVE|BE).*?(NN|JJ|DT)
+DEFINITIONPAT	(@(WHAT|DOHAVE|MODAL|BE).*?DEFINITIONKEY|@WHAT DT? NN @BE|@WHAT @BE DT NN|@WHAT @BE.*?)
+DISJUNCTIONPAT	@(MODAL|SHOULD|DOHAVE|BE).*?DISJUNCTIONKEY
+EXAMPLEPAT	@(WHAT|MODAL|SHOULD|DOHAVE|BE).*?EXAMPLEKEY
+QUANTIFICATIONPAT	@(WHAT.*?QUANTIFICATIONKEY|HOW.*?(ADJADV|QUANTIFICATIONKEY)|MODAL.*?PRON.*?QUANTIFICATIONKEY)
+FEATURE_SPECIFICATIONPAT	(@WHAT.*?FEATURE_SPECIFICATIONKEY|@BE DT.*?PREP.*?NN)
+CONCEPT_COMPLETIONPAT	@(WHAT|WH).*?NN
+ENABLEMENTPAT	@(WHAT|WH|HOW|WHY).*?ENABLEMENTKEY
+JUDGMENTALPAT	(PRP.*?JUDGEMENTALKEY|(SHOULD|JUDGEMENTALKEY).*?(PRP|NN))
+EXPECTATIONALPAT	@((WHY|HOW).*?NEG|MODAL.*?CAUSAL_CONSEQUENTKEY.*?CAUSAL_ANTECEDENTKEY)
+CAUSAL_CONSEQUENTPAT	@(WHAT|DO).*?CAUSAL_CONSEQUENTKEY
+COMPARISONPAT	@(WHAT|WH|HOW|MODAL.*?PRP).*?COMPARISONKEY
+INSTRUMENTALPAT	@(HOW.*?@(MODAL|SHOULD|DOHAVE).*?(NN|PRP)|(WHAT|HOW|WHY|WH).*?PROCEDURALKEY|MODAL.*?PRP.*?PROCEDURALKEY)
+GOAL_ORIENTATIONPAT	@(WHY.*?(@DOHAVE|MODAL|BE).*?(PRP|GOALORIENTATIONKEY)|@(WHAT|WH).*?(GOAL_ORIENTATIONKEY|MODAL))
+CAUSAL_ANTECEDENTPAT	@((WHY|HOW).*?@(DOHAVE|BE|MODAL|SHOULD).*?(VB|CAUSAL_ANTECEDENTKEY)|(WHAT|HOW|WHY|WH).*?CAUSAL_ANTECEDENTKEY)
+INTERPRETATIONPAT	INTERPRETATIONKEY

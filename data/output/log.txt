@@ -1,0 +1,132 @@
+start gather.txt 265:16:24:21at 2651624
+start gather.txt 265:16:44:55at 2651644
+end data\output\gather.txt 265:16:45:06at 2651645
+time taken: 10265at 2651645
+average time: 10265.0at 2651645
+average time in seconds : 10.265at 2651645
+end data\output\gather.txt 265:16:45:06at 2651645
+time taken: 10277at 2651645
+average time: 10271.0at 2651645
+average time in seconds : 10.271at 2651645
+end data\output\gather.txt 265:16:45:06at 2651645
+time taken: 10287at 2651645
+average time: 10276.0at 2651645
+average time in seconds : 10.276at 2651645
+end data\output\gather.txt 265:16:45:06at 2651645
+time taken: 10296at 2651645
+average time: 10281.0at 2651645
+average time in seconds : 10.281at 2651645
+start gather.txt 265:16:46:43at 2651646
+start gather.txt 265:16:46:49at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6397at 2651646
+average time: 9504.0at 2651646
+average time in seconds : 9.504at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6400at 2651646
+average time: 8987.0at 2651646
+average time in seconds : 8.987at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6405at 2651646
+average time: 8618.0at 2651646
+average time in seconds : 8.618at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6408at 2651646
+average time: 8341.0at 2651646
+average time in seconds : 8.341at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6413at 2651646
+average time: 8127.0at 2651646
+average time in seconds : 8.127at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6415at 2651646
+average time: 7956.0at 2651646
+average time in seconds : 7.956at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6419at 2651646
+average time: 7816.0at 2651646
+average time in seconds : 7.816at 2651646
+end data\output\gather.txt 265:16:46:56at 2651646
+time taken: 6424at 2651646
+average time: 7700.0at 2651646
+average time in seconds : 7.7at 2651646
+start gather.txt 265:16:47:06at 2651647
+end data\output\gather.txt 265:16:47:16at 2651647
+time taken: 9677at 2651647
+average time: 7852.0at 2651647
+average time in seconds : 7.852at 2651647
+end data\output\gather.txt 265:16:47:16at 2651647
+time taken: 9681at 2651647
+average time: 7983.0at 2651647
+average time in seconds : 7.983at 2651647
+end data\output\gather.txt 265:16:47:16at 2651647
+time taken: 9685at 2651647
+average time: 8096.0at 2651647
+average time in seconds : 8.096at 2651647
+end data\output\gather.txt 265:16:47:26at 2651647
+time taken: 19685at 2651647
+average time: 8820.0at 2651647
+average time in seconds : 8.82at 2651647
+jade.domain.FIPAException: Timeout searching for data into dfat 2671546
+jade.domain.FIPAException: Timeout searching for data into dfat 2671547
+jade.domain.FIPAException: Timeout searching for data into dfat 2671611
+jade.domain.FIPAException: Timeout searching for data into dfat 2671611
+jade.domain.FIPAException: Timeout searching for data into dfat 2671612
+jade.domain.FIPAException: Timeout searching for data into dfat 2671612
+jade.domain.FIPAException: Timeout searching for data into dfat 2671613
+jade.domain.FIPAException: Timeout searching for data into dfat 2671613
+jade.domain.FIPAException: Timeout searching for data into dfat 2671613
+jade.domain.FIPAException: Timeout searching for data into dfat 2671613
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671615
+jade.domain.FIPAException: Timeout searching for data into dfat 2671712
+jade.domain.FIPAException: Timeout searching for data into dfat 2671713
+jade.domain.FIPAException: Timeout searching for data into dfat 2671713
+jade.domain.FIPAException: Timeout searching for data into dfat 2671714
+jade.domain.FIPAException: Timeout searching for data into dfat 2671745
+jade.domain.FIPAException: Timeout searching for data into dfat 2671746
+jade.domain.FIPAException: Timeout searching for data into dfat 2671746
+jade.domain.FIPAException: Timeout searching for data into dfat 2671813
+jade.domain.FIPAException: Timeout searching for data into dfat 2671814
+jade.domain.FIPAException: Timeout searching for data into dfat 2671817
+jade.domain.FIPAException: Timeout searching for data into dfat 2671817
+jade.domain.FIPAException: Timeout searching for data into dfat 2671818
+jade.domain.FIPAException: Timeout searching for data into dfat 2671818
+jade.domain.FIPAException: Timeout searching for data into dfat 2671834
+jade.domain.FIPAException: Timeout searching for data into dfat 2671834
+jade.domain.FIPAException: Timeout searching for data into dfat 2671835
+jade.domain.FIPAException: Timeout searching for data into dfat 2671835
+jade.domain.FIPAException: Timeout searching for data into dfat 2671835
+jade.domain.FIPAException: Timeout searching for data into dfat 2671835
+jade.domain.FIPAException: Timeout searching for data into dfat 2671836
+jade.domain.FIPAException: Timeout searching for data into dfat 2671836
+jade.domain.FIPAException: Timeout searching for data into dfat 2671836
+jade.domain.FIPAException: Timeout searching for data into dfat 2671836
+jade.domain.FIPAException: Timeout searching for data into dfat 2671837
+jade.domain.FIPAException: Timeout searching for data into dfat 2671837
+jade.domain.FIPAException: Timeout searching for data into dfat 2671837
+jade.domain.FIPAException: Timeout searching for data into dfat 2681201
+jade.domain.FIPAException: Timeout searching for data into dfat 2681201
+jade.domain.FIPAException: Timeout searching for data into dfat 2681202
+jade.domain.FIPAException: Timeout searching for data into dfat 2681202
+jade.domain.FIPAException: Timeout searching for data into dfat 3381241
+jade.domain.FIPAException: Timeout searching for data into dfat 3381246
+jade.domain.FIPAException: Timeout searching for data into dfat 3381908
+jade.domain.FIPAException: Timeout searching for data into dfat 3400146
+jade.domain.FIPAException: Timeout searching for data into dfat 3400146
+jade.domain.FIPAException: Timeout searching for data into dfat 3400147
+jade.domain.FIPAException: Timeout searching for data into dfat 3400148
+jade.domain.FIPAException: Timeout searching for data into dfat 3400148
+jade.domain.FIPAException: Timeout searching for data into dfat 3400149
+jade.domain.FIPAException: Timeout searching for data into dfat 3400150
+jade.domain.FIPAException: Timeout searching for data into dfat 3400150
+jade.domain.FIPAException: Timeout searching for data into dfat 3400151
+jade.domain.FIPAException: Timeout searching for data into dfat 3400152
+jade.domain.FIPAException: Timeout searching for data into dfat 3400218
+jade.domain.FIPAException: Timeout searching for data into dfat 3400232
+jade.domain.FIPAException: Timeout searching for data into dfat 3401105
+jade.domain.FIPAException: Timeout searching for data into dfat 3401127
